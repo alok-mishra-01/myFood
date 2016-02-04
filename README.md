@@ -1,2 +1,2 @@
 # myFood
-Built for foodie techies by techie foodies
+Built for foodie techie entrepreneurs by techie foodies entrepreneurs
